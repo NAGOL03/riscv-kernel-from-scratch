@@ -1,5 +1,4 @@
 # Clang Flags Explained
----
 
 -O0    Do not optimize
 
